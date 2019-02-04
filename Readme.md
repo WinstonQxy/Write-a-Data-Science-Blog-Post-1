@@ -44,5 +44,9 @@ AirBNB/
 - listings.csv         ==> Information of houses in Seattle.
 - reviews.csv          ==> Reviews of houses in Seattle.
 
+## Owner
+
+https://github.com/chandanchance
+
 ## Results
 Please find my findings [here](https://medium.com/@chandanchandu32/how-to-attract-tourist-for-the-rental-spaces-12746c3d526f?source=friends_link&sk=aec03a4fd101cbe1789ee7125548b516)
